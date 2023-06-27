@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "bust",
+    "name": "Bust",
+    "description": "Music Of The Bust",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:bust"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

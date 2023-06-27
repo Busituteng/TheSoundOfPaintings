@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "wanderer",
+    "name": "Wanderer",
+    "description": "Music Of The Wanderer",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:wanderer"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

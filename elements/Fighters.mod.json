@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "fighters",
+    "name": "Fighters",
+    "description": "Music Of The Fighters",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:fighters"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

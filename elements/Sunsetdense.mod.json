@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sunsetdense",
+    "name": "Sunset Dense",
+    "description": "Music Of The Sunset Dense",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:sunsetdense"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

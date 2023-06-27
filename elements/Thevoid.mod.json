@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thevoid",
+    "name": "The Void",
+    "description": "Music Of The The Void",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:thevoid"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

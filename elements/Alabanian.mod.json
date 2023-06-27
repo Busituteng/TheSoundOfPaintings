@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "alabanian",
+    "name": "Alabanian",
+    "description": "Music Of The Alabanian",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:albanian"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

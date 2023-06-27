@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thestageisset",
+    "name": "The Stage Is Set",
+    "description": "Music Of The The Stage Is Set",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:thestageisset"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "skullonfire",
+    "name": "Skull On Fire",
+    "description": "Music Of The Skull On Fire",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:skullonfire"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

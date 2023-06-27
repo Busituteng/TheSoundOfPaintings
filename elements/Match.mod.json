@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "match",
+    "name": "Match",
+    "description": "Music Of The Match",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:match"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

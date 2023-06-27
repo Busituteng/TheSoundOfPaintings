@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "kebab",
+    "name": "Kebab med tre pepperoni",
+    "description": "Music Of The Kebab med tre pepperoni",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:kmtp"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

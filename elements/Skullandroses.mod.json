@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "skullandroses",
+    "name": "Skull And Roses",
+    "description": "Music Of The Skull And Roses",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:skullandroses"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

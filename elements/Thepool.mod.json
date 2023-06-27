@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thepool",
+    "name": "The Pool",
+    "description": "Music Of The The Pool",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:thepool"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

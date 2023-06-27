@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "paradistrad",
+    "name": "Paradistrad",
+    "description": "Music Of The Paradistrad",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:paradistrad"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

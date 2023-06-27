@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tsb",
+    "name": "Target Successfully Bombed",
+    "description": "Music Of The Target Successfully Bombed",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:tsb"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

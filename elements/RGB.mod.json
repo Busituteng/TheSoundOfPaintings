@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "pigscene",
+    "name": "Pigscene",
+    "description": "Music Of The Pigscene",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:pigscene"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

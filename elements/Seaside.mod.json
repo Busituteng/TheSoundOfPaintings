@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "seaside",
+    "name": "Seaside",
+    "description": "Music Of The Seaside",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:seaside"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

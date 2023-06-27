@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "bmc",
+    "name": "Bonjour Monsieur Courbet",
+    "description": "Music Of The Bonjour Monsieur Courbet",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:bmc"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

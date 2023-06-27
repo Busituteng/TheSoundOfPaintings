@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "graham",
+    "name": "Graham",
+    "description": "Music Of The Graham",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:graham"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

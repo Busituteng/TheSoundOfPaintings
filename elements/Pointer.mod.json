@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "pointer",
+    "name": "Pointer",
+    "description": "Music Of The Pointer",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:pointer"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

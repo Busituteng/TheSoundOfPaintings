@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "wasteland",
+    "name": "Wasteland",
+    "description": "Music Of The Wasteland",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:wasteland"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

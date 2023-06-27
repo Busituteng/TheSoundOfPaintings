@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "mortalcoil",
+    "name": "Mortalcoil",
+    "description": "Music Of The Mortal Coil",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:mortalcoil"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "deaztec",
+    "name": "De Aztec",
+    "description": "Music Of The de_aztec",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:da1"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

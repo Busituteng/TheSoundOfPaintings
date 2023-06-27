@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "kong",
+    "name": "Kong",
+    "description": "Music Of The Kong",
+    "creativeTab": {
+      "value": "CUSTOM:Thesoundofpaintingstab"
+    },
+    "music": {
+      "value": "CUSTOM:kong"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
