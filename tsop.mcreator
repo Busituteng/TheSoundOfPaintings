@@ -1,0 +1,601 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Alabanian",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alabanian"
+    },
+    {
+      "name": "Thesoundofpaintingstab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thesoundofpaintingstab"
+    },
+    {
+      "name": "Bonjourmonsieurcourbet",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bonjourmonsieurcourbet"
+    },
+    {
+      "name": "Bust",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bust"
+    },
+    {
+      "name": "Deaztec",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deaztec"
+    },
+    {
+      "name": "Deaztec2",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deaztec_2"
+    },
+    {
+      "name": "Fighters",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fighters"
+    },
+    {
+      "name": "Graham",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graham"
+    },
+    {
+      "name": "Kebab",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kebab"
+    },
+    {
+      "name": "Kong",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kong"
+    },
+    {
+      "name": "Match",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "match"
+    },
+    {
+      "name": "Mortalcoil",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mortalcoil"
+    },
+    {
+      "name": "Paradistrad",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paradistrad"
+    },
+    {
+      "name": "RGB",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rgb"
+    },
+    {
+      "name": "Pointer",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pointer"
+    },
+    {
+      "name": "Seaside",
+      "type": "musicdisc",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seaside"
+    },
+    {
+      "name": "Skullandroses",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skullandroses"
+    },
+    {
+      "name": "Skullonfire",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skullonfire"
+    },
+    {
+      "name": "Sunsetdense",
+      "type": "musicdisc",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunsetdense"
+    },
+    {
+      "name": "Tsb",
+      "type": "musicdisc",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tsb"
+    },
+    {
+      "name": "Thepool",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thepool"
+    },
+    {
+      "name": "Thestageisset",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thestageisset"
+    },
+    {
+      "name": "Thevoid",
+      "type": "musicdisc",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thevoid"
+    },
+    {
+      "name": "Wanderer",
+      "type": "musicdisc",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wanderer"
+    },
+    {
+      "name": "Wasteland",
+      "type": "musicdisc",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wasteland"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "albanian",
+      "files": [
+        "albanian"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "bmc",
+      "files": [
+        "bonjour_monsieur_courbet"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "bust",
+      "files": [
+        "bust"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "da1",
+      "files": [
+        "de_aztec"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "da2",
+      "files": [
+        "de_aztec2"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "fighters",
+      "files": [
+        "fighters"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "graham",
+      "files": [
+        "graham"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "kmtp",
+      "files": [
+        "kebab_med_tre_pepperoni"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "kong",
+      "files": [
+        "kong"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "match",
+      "files": [
+        "match"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "mortalcoil",
+      "files": [
+        "mortal_coil"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "paradistrad",
+      "files": [
+        "paradistrad"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "pigscene",
+      "files": [
+        "pigscene"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "pointer",
+      "files": [
+        "pointer"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "seaside",
+      "files": [
+        "seaside"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "skullandroses",
+      "files": [
+        "skull_and_roses"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "skullonfire",
+      "files": [
+        "skull_on_fire"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "sunsetdense",
+      "files": [
+        "sunset_dense"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "tsb",
+      "files": [
+        "target_successfully_bombed"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "thepool",
+      "files": [
+        "the_pool"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "thestageisset",
+      "files": [
+        "the_stage_is_set"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "thevoid",
+      "files": [
+        "the_void"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "wanderer",
+      "files": [
+        "wanderer"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "wasteland",
+      "files": [
+        "wasteland"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.skullandroses.name": "Skull And Roses",
+      "item.thestageisset.name": "The Stage Is Set",
+      "subtitles.pigscene": "",
+      "subtitles.kmtp": "",
+      "subtitles.skullonfire": "",
+      "item.sunsetdense.name": "Sunset Dense",
+      "item.seaside.name": "Seaside",
+      "item.kong.name": "Kong",
+      "subtitles.match": "",
+      "item.record.sunsetdense.desc": "Music Of The Sunset Dense",
+      "subtitles.thepool": "",
+      "item.record.pointer.desc": "Music Of The Pointer",
+      "subtitles.fighters": "",
+      "item.paradistrad.name": "Paradistrad",
+      "subtitles.thevoid": "",
+      "subtitles.da2": "",
+      "subtitles.da1": "",
+      "item.bust.name": "Bust",
+      "item.wasteland.name": "Wasteland",
+      "item.tsb.name": "Target Successfully Bombed",
+      "item.bonjourmonsieurcourbet.name": "Bonjour Monsieur Courbet",
+      "item.record.mortalcoil.desc": "Music Of The Mortal Coil",
+      "subtitles.bust": "",
+      "item.kebab.name": "Kebab med tre pepperoni",
+      "item.match.name": "Match",
+      "item.graham.name": "Graham",
+      "item.record.kong.desc": "Music Of The Kong",
+      "item.record.seaside.desc": "Music Of The Seaside",
+      "item.record.tsb.desc": "Music Of The Target Successfully Bombed",
+      "item.record.bonjourmonsieurcourbet.desc": "Music Of The Bonjour Monsieur Courbet",
+      "item.record.bust.desc": "Music Of The Bust",
+      "item.deaztec.name": "De Aztec",
+      "item.record.skullonfire.desc": "Music Of The Skull On Fire",
+      "item.record.thestageisset.desc": "Music Of The The Stage Is Set",
+      "subtitles.bmc": "",
+      "subtitles.graham": "",
+      "subtitles.seaside": "",
+      "subtitles.kong": "",
+      "subtitles.sunsetdense": "",
+      "subtitles.wanderer": "",
+      "item.deaztec_2.name": "De Aztec 2",
+      "item.mortalcoil.name": "Mortal Coil",
+      "item.pointer.name": "Pointer",
+      "subtitles.paradistrad": "",
+      "subtitles.pointer": "",
+      "item.record.deaztec_2.desc": "Music Of The De Aztec 2",
+      "item.record.thevoid.desc": "Music Of The The Void",
+      "subtitles.wasteland": "",
+      "item.record.thepool.desc": "Music Of The The Pool",
+      "subtitles.skullandroses": "",
+      "item.record.graham.desc": "Music Of The Graham",
+      "item.record.alabanian.desc": "Music Of The Alabanian",
+      "item.thepool.name": "The Pool",
+      "item.rgb.name": "Pigscene",
+      "item.record.deaztec.desc": "Music Of The de_aztec",
+      "item.thevoid.name": "The Void",
+      "itemGroup.tabthesoundofpaintingstab": "The Sound Of Paintings",
+      "item.record.fighters.desc": "Music Of The Fighters",
+      "item.wanderer.name": "Wanderer",
+      "item.record.wanderer.desc": "Music Of The Wanderer",
+      "subtitles.mortalcoil": "",
+      "item.alabanian.name": "Alabanian",
+      "item.fighters.name": "Fighters",
+      "item.record.wasteland.desc": "Music Of The Wasteland",
+      "subtitles.thestageisset": "",
+      "subtitles.tsb": "",
+      "item.skullonfire.name": "Skull On Fire",
+      "subtitles.albanian": "",
+      "item.record.rgb.desc": "Music Of The Pigscene",
+      "item.record.skullandroses.desc": "Music Of The Skull And Roses",
+      "item.record.kebab.desc": "Music Of The Kebab med tre pepperoni",
+      "item.record.paradistrad.desc": "Music Of The Paradistrad",
+      "item.record.match.desc": "Music Of The Match"
+    },
+    "zh_cn": {
+      "item.skullandroses.name": "头骨和玫瑰",
+      "item.thestageisset.name": "舞台已搭成",
+      "subtitles.pigscene": "",
+      "subtitles.kmtp": "",
+      "subtitles.skullonfire": "",
+      "item.sunsetdense.name": "日落",
+      "item.seaside.name": "海滨",
+      "item.kong.name": "金刚",
+      "subtitles.match": "",
+      "item.record.sunsetdense.desc": "Music Of The Sunset Dense",
+      "subtitles.thepool": "",
+      "item.record.pointer.desc": "Music Of The Pointer",
+      "subtitles.fighters": "",
+      "item.paradistrad.name": "天堂树",
+      "subtitles.thevoid": "",
+      "subtitles.da2": "",
+      "subtitles.da1": "",
+      "item.bust.name": "半身像",
+      "item.wasteland.name": "荒地",
+      "item.tsb.name": "目标被成功炸毁",
+      "item.bonjourmonsieurcourbet.name": "你好，库尔贝先生",
+      "item.record.mortalcoil.desc": "Music Of The Mortal Coil",
+      "subtitles.bust": "",
+      "item.kebab.name": "烤肉配红肠",
+      "item.match.name": "火柴",
+      "item.graham.name": "格雷姆",
+      "item.record.kong.desc": "Music Of The Kong",
+      "item.record.seaside.desc": "Music Of The Seaside",
+      "item.record.tsb.desc": "Music Of The Target Successfully Bombed",
+      "item.record.bonjourmonsieurcourbet.desc": "Music Of The Bonjour Monsieur Courbet",
+      "item.record.bust.desc": "Music Of The Bust",
+      "item.deaztec.name": "De Aztec",
+      "item.record.skullonfire.desc": "Music Of The Skull On Fire",
+      "item.record.thestageisset.desc": "Music Of The The Stage Is Set",
+      "subtitles.bmc": "",
+      "subtitles.graham": "",
+      "subtitles.seaside": "",
+      "subtitles.kong": "",
+      "subtitles.sunsetdense": "",
+      "subtitles.wanderer": "",
+      "item.deaztec_2.name": "De Aztec 2",
+      "item.mortalcoil.name": "尘世纷扰",
+      "item.pointer.name": "指示者",
+      "subtitles.paradistrad": "",
+      "subtitles.pointer": "",
+      "item.record.deaztec_2.desc": "Music Of The De Aztec 2",
+      "item.record.thevoid.desc": "Music Of The The Void",
+      "subtitles.wasteland": "",
+      "item.record.thepool.desc": "Music Of The The Pool",
+      "subtitles.skullandroses": "",
+      "item.record.graham.desc": "Music Of The Graham",
+      "item.record.alabanian.desc": "Music Of The Alabanian",
+      "item.thepool.name": "水池",
+      "item.rgb.name": "猪的头像",
+      "item.record.deaztec.desc": "Music Of The de_aztec",
+      "item.thevoid.name": "虚空",
+      "itemGroup.tabthesoundofpaintingstab": "The Sound Of Paintings",
+      "item.record.fighters.desc": "Music Of The Fighters",
+      "item.wanderer.name": "旅人",
+      "item.record.wanderer.desc": "Music Of The Wanderer",
+      "subtitles.mortalcoil": "",
+      "item.alabanian.name": "阿尔巴尼亚人",
+      "item.fighters.name": "比武者",
+      "item.record.wasteland.desc": "Music Of The Wasteland",
+      "subtitles.thestageisset": "",
+      "subtitles.tsb": "",
+      "item.skullonfire.name": "燃烧的头骨",
+      "subtitles.albanian": "",
+      "item.record.rgb.desc": "Music Of The Pigscene",
+      "item.record.skullandroses.desc": "Music Of The Skull And Roses",
+      "item.record.kebab.desc": "Music Of The Kebab med tre pepperoni",
+      "item.record.paradistrad.desc": "Music Of The Paradistrad",
+      "item.record.match.desc": "Music Of The Match"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tsop",
+    "modName": "The Sound Of Paintings",
+    "version": "0.0.2",
+    "description": "Added Some Music Transformed From Paintings In Minecraft.",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://github.com/Busituteng/TheSoundOfPaintings",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Mubert, MCreator",
+    "modElementsPackage": "io.github.busituteng.tsop",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

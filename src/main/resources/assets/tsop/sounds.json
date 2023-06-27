@@ -1,0 +1,218 @@
+{
+  "albanian": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:albanian",
+        "stream": true
+      }
+    ]
+  },
+  "bmc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:bonjour_monsieur_courbet",
+        "stream": true
+      }
+    ]
+  },
+  "bust": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:bust",
+        "stream": true
+      }
+    ]
+  },
+  "da1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:de_aztec",
+        "stream": true
+      }
+    ]
+  },
+  "da2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:de_aztec2",
+        "stream": true
+      }
+    ]
+  },
+  "fighters": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:fighters",
+        "stream": true
+      }
+    ]
+  },
+  "graham": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:graham",
+        "stream": true
+      }
+    ]
+  },
+  "kmtp": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:kebab_med_tre_pepperoni",
+        "stream": true
+      }
+    ]
+  },
+  "kong": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:kong",
+        "stream": true
+      }
+    ]
+  },
+  "match": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:match",
+        "stream": true
+      }
+    ]
+  },
+  "mortalcoil": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:mortal_coil",
+        "stream": true
+      }
+    ]
+  },
+  "paradistrad": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:paradistrad",
+        "stream": true
+      }
+    ]
+  },
+  "pigscene": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:pigscene",
+        "stream": true
+      }
+    ]
+  },
+  "pointer": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:pointer",
+        "stream": true
+      }
+    ]
+  },
+  "seaside": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:seaside",
+        "stream": true
+      }
+    ]
+  },
+  "skullandroses": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:skull_and_roses",
+        "stream": true
+      }
+    ]
+  },
+  "skullonfire": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:skull_on_fire",
+        "stream": true
+      }
+    ]
+  },
+  "sunsetdense": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:sunset_dense",
+        "stream": true
+      }
+    ]
+  },
+  "tsb": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:target_successfully_bombed",
+        "stream": true
+      }
+    ]
+  },
+  "thepool": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:the_pool",
+        "stream": true
+      }
+    ]
+  },
+  "thestageisset": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:the_stage_is_set",
+        "stream": true
+      }
+    ]
+  },
+  "thevoid": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:the_void",
+        "stream": true
+      }
+    ]
+  },
+  "wanderer": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:wanderer",
+        "stream": true
+      }
+    ]
+  },
+  "wasteland": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tsop:wasteland",
+        "stream": true
+      }
+    ]
+  }
+}

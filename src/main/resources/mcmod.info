@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "tsop",
+    "name": "The Sound Of Paintings",
+    "description": "Added Some Music Transformed From Paintings In Minecraft.",
+    "version": "0.0.2",
+    "credits": "Mubert, MCreator",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Busituteng/TheSoundOfPaintings",
+    "updateUrl": "",
+    "authorList": [
+      "BunnimimiTotem"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
